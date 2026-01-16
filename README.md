@@ -1,2 +1,2 @@
 # Unity-Game-Enemy-ai-Framework---Unityking
-Enemy AI jo smart feel kare  FSM  Behavior Trees  Perception system
+Enemy AI FSM  Behavior Trees Perception system
